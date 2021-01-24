@@ -1,1 +1,2 @@
-Change2 in File1
+Change1 in File1.
+This is the new commit from branch2.
